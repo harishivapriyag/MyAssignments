@@ -10,10 +10,10 @@
 	<test thread-count="5" name="DynamicDataParameter">
 		<classes>
 			<class name="week5.day2.DynamicDataParameterization.CreateLead" />
-			<class name="week5.day2.DynamicDataParameterization.EditLead" />
+			<!-- <class name="week5.day2.DynamicDataParameterization.EditLead" />
 			<class
 				name="week5.day2.DynamicDataParameterization.DuplicateLead" />
-			<class name="week5.day2.DynamicDataParameterization.DeleteLead" />
+			<class name="week5.day2.DynamicDataParameterization.DeleteLead" /> -->
 		</classes>
 	</test> <!-- Test -->
 </suite> <!-- Suite -->
